@@ -40,28 +40,44 @@ Este projeto teve como propósito:
 ## 📸 Galeria de Imagens do Projeto
 
 ### Hambúrguer Clássico
+
+<div align="center">
 <img src="/assets/img/img1.png" alt="Hambúrguer Clássico" width="300" height="auto" />
+</div>
+
 
 **Delicie-se com nosso Hambúrguer Clássico**: beef suculento, pão macio tostado, alface crocante, tomate fresco, cebolas caramelizadas e molho especial. Sabor e simplicidade em cada mordida!
 
 ---
 
 ### Cheeseburguer
+
+<div align="center">
 <img src="/assets/img/img2.png" alt="Cheeseburguer" width="300" height="auto" />
+</div>
+
 
 **Experimente nosso irresistível Cheeseburguer**: beef grelhado, queijo derretido, pão macio, alface crocante, tomate fresco e molho especial. Uma explosão de sabor em cada mordida!
 
 ---
 
 ### Hambúrguer Vegano
+
+<div align="center">
 <img src="/assets/img/img3.png" alt="Hambúrguer Vegano" width="300" height="auto" />
+</div>
+
 
 **Saboreie nosso Hambúrguer Vegano**: burger de grão-de-bico e legumes, grelhado à perfeição, pão integral, alface, tomate, cebola roxa e molho especial. Saboroso e nutritivo!
 
 ---
 
 ### Hambúrguer de Peixe
+
+<div align="center">
 <img src="/assets/img/img4.png" alt="Hambúrguer de Peixe" width="300" height="auto" />
+</div>
+
 
 **Experimente nosso Hambúrguer de Peixe**: filé de peixe grelhado, pão macio, alface, tomate, cebola roxa e molho de limão especial. O sabor do mar em cada mordida!
 
