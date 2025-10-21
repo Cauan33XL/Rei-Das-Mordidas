@@ -6,15 +6,15 @@
 
 ## 📢 Sobre o Projeto
 
-Fala, pessoal! Concluí recentemente um projeto de desenvolvimento web bem interessante: um site catálogo de hambúrgueres chamado **Rei das Mordidas** 🍴. Utilizei um template pronto do [Start Bootstrap](https://startbootstrap.com/) para construir o site e publiquei-o na plataforma [InfinityFree](https://www.infinityfree.net/) via **FileZilla**. 🚀
+Fala, pessoal! Concluí recentemente um projeto de desenvolvimento web bem interessante: um site catálogo de hambúrgueres chamado **Rei das Mordidas** 🍴. Utilizei um template pronto do [Start Bootstrap](https://startbootstrap.com/) para construir o site e agora o **deploy está hospedado no GitHub Pages**, garantindo acesso rápido e confiável diretamente pelo navegador. 🚀
 
-Essa experiência prática foi uma excelente oportunidade para experimentar conceitos de **hospedagem** e **manipulação de arquivos online**, testando como colocar um site no ar e gerenciar o conteúdo diretamente.
+Essa experiência prática me permitiu explorar conceitos de **publicação online**, **controle de versão** com GitHub e **manutenção de um site estático** sem depender de hospedagens externas ou FTP. Ver o site funcionando perfeitamente via GitHub Pages foi extremamente recompensador! 🌐
 
-Ver o site funcionando perfeitamente foi muito recompensador! 🌐
+---
 
-### 🔗 Acesse o Site
+## 🔗 Acesse o Site
 
-[Rei das Mordidas - Catálogo de Hambúrgueres](https://rei-das-mordidas-burger.fast-page.org)
+[Rei das Mordidas - Catálogo de Hambúrgueres](https://cauan33xl.github.io/Rei-Das-Mordidas/)
 
 ---
 
@@ -23,61 +23,68 @@ Ver o site funcionando perfeitamente foi muito recompensador! 🌐
 - **HTML & CSS**
 - **JavaScript**
 - **Start Bootstrap** (template)
-- **FileZilla** (para transferência de arquivos)
-- **InfinityFree** (para hospedagem gratuita)
+- **Git & GitHub** (para versionamento e deploy)
+- **GitHub Pages** (hospedagem gratuita e estável)
+
+---
 
 ## 🎯 Objetivo do Projeto
 
 Este projeto teve como propósito:
 - Exercitar habilidades de **desenvolvimento front-end**.
-- Explorar o uso de **templates** prontos para sites rápidos e eficientes.
-- Praticar **publicação de sites** em plataformas de hospedagem gratuita.
-  
+- Explorar o uso de **templates prontos** para sites rápidos e eficientes.
+- Praticar **deploy em GitHub Pages**, garantindo atualização e controle direto pelo repositório.
+
 ---
 
 ## 📸 Galeria de Imagens do Projeto
 
 ### Hambúrguer Clássico
-
 <img src="/assets/img/img1.png" alt="Hambúrguer Clássico" width="300" height="auto" />
 
-**Delicie-se com nosso Hambúrguer Clássico**: um suculento beef grelhado, servido em um pão macio e tostado, coberto com alface crocante, tomate fresco e cebolas caramelizadas. Finalizado com nosso molho especial, é a verdadeira definição de sabor e simplicidade em cada mordida!
+**Delicie-se com nosso Hambúrguer Clássico**: beef suculento, pão macio tostado, alface crocante, tomate fresco, cebolas caramelizadas e molho especial. Sabor e simplicidade em cada mordida!
 
 ---
 
 ### Cheeseburguer
+<img src="/assets/img/img2.png" alt="Cheeseburguer" width="300" height="auto" />
 
-<img src="/assets/img/img2.png" alt="Hambúrguer Clássico" width="300" height="auto" />
-
-**Experimente nosso irresistível Cheeseburguer**: um suculento beef grelhado coberto por uma camada generosa de queijo derretido, servido em um pão macio e tostado. Complementado com alface crocante, tomate fresco e nosso molho especial, é uma explosão de sabor em cada mordida!
+**Experimente nosso irresistível Cheeseburguer**: beef grelhado, queijo derretido, pão macio, alface crocante, tomate fresco e molho especial. Uma explosão de sabor em cada mordida!
 
 ---
 
 ### Hambúrguer Vegano
+<img src="/assets/img/img3.png" alt="Hambúrguer Vegano" width="300" height="auto" />
 
-<img src="/assets/img/img3.png" alt="Hambúrguer Clássico" width="300" height="auto" />
-
-**Saboreie nosso Hambúrguer Vegano**: um delicioso burger à base de grão-de-bico e legumes, grelhado à perfeição e servido em um pão integral macio. Completo com alface fresca, tomate, cebola roxa e um molho especial, é uma opção saborosa e nutritiva para todos!
+**Saboreie nosso Hambúrguer Vegano**: burger de grão-de-bico e legumes, grelhado à perfeição, pão integral, alface, tomate, cebola roxa e molho especial. Saboroso e nutritivo!
 
 ---
 
 ### Hambúrguer de Peixe
+<img src="/assets/img/img4.png" alt="Hambúrguer de Peixe" width="300" height="auto" />
 
-<img src="/assets/img/img4.png" alt="Hambúrguer Clássico" width="300" height="auto" />
-
-**Experimente nosso Hambúrguer de Peixe**: um filé de peixe grelhado e suculento, servido em um pão macio e acompanhado de alface, tomate, cebola roxa e um molho de limão especial, trazendo o sabor do mar em cada mordida!
+**Experimente nosso Hambúrguer de Peixe**: filé de peixe grelhado, pão macio, alface, tomate, cebola roxa e molho de limão especial. O sabor do mar em cada mordida!
 
 ---
 
 ## 💡 Aprendizados
 
-Foi uma atividade prática enriquecedora, onde pude aprimorar:
-- Conhecimentos sobre **hospedagem de sites**.
-- Habilidades com **ferramentas de transferência de arquivos** (FTP).
-- Como usar templates para acelerar o desenvolvimento.
+Durante o desenvolvimento, pude aprimorar:
+- Conhecimentos sobre **deploy de sites estáticos**.
+- Habilidades com **controle de versão usando GitHub**.
+- Uso de **templates para acelerar o desenvolvimento**.
+- Compreensão de **hospedagem moderna via GitHub Pages**, substituindo FTP e serviços externos.
+
+---
+
+## 📝 Notas de Update
+
+- **Antes:** Hospedagem via **InfinityFree** usando **FileZilla** para upload de arquivos.
+- **Agora:** Deploy via **GitHub Pages**, com acesso direto pelo navegador, integração com repositório e controle total do site.
+- Essa mudança trouxe **mais estabilidade, confiabilidade e praticidade** na manutenção do projeto.
 
 ---
 
 ### 📌 Tags
 
-`#DesenvolvimentoWeb` `#StartBootstrap` `#FileZilla` `#InfinityFree` `#AtividadePrática` `#WebDesign` `#ReiDasMordidas` `#HandsOn` `#Tech`
+`#DesenvolvimentoWeb` `#StartBootstrap` `#GitHubPages` `#HTML` `#CSS` `#JavaScript` `#ReiDasMordidas` `#HandsOn` `#WebDesign` `#Tech`
